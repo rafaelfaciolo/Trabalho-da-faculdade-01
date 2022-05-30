@@ -1,5 +1,5 @@
 #----------TRABALHO--------------
-print('Programa de controle de atendimento de um salão de beleza, feito por Rafael Faciolo Gomes - RM: 4046231')
+print('Programa de controle de atendimento de um salão de beleza, feito por Rafael Faciolo')
 total = 0
 contador = 0
 while True:
